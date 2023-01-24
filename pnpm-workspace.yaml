@@ -1,0 +1,5 @@
+packages:
+  - apps/vue
+  - packages/config/*
+  - packages/ui
+  - packages/type-utils
