@@ -11,7 +11,7 @@
     "lint": "turbo lint",
     "FIXME:lint": "turbo lint && manypkg check",
     "type-check": "turbo type-check",
-    "prepare": "husky install",
+    "prepare": "npx husky install",
     "pre-commit": "turbo lint && turbo build"
   },
   "dependencies": {
